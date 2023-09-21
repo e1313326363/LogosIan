@@ -1,0 +1,65 @@
+/* Blue */
+[data-popout-root], html {
+    --brand-experiment-100: #BBBFFB;
+    --brand-experiment-130: #BBBFFB;
+    --brand-experiment-160: #BBBFFB;
+    --brand-experiment-200: #BBBFFB;
+    --brand-experiment-230: #BBBFFB;
+    --brand-experiment-260: #BBBFFB;
+    --brand-experiment-300: #BBBFFB;
+    --brand-experiment-330: #BBBFFB;
+    --brand-experiment-360: #7A66CC;
+    --brand-experiment-400: #7A66CC;
+    --brand-experiment-430: #7A66CC;
+    --brand-experiment-460: #7A66CC;
+    --brand-experiment: #7A66CC;
+    --brand-experiment-500: #6D62CB;
+    --brand-experiment-530: #675EC9;
+    --brand-experiment-560: #675EC9;
+    --brand-experiment-600: #6B5BC8    ;
+    --brand-experiment-630: #6457C7    ;
+    --brand-experiment-660: #6457C7    ;
+    --brand-experiment-700: #6457C7    ;
+    --brand-experiment-730: #5F4FC4    ;
+    --brand-experiment-760: #5E40BF    ;
+    --brand-experiment-800: #5E40BF    ;
+    --brand-experiment-830: #5E40BF    ;
+    --brand-experiment-860: #5E40BF;
+    --brand-experiment-900: #251b61    ;
+    --brand-experiment-05a: #44349D;
+    --brand-experiment-10a: #44349D;
+    --brand-experiment-15a: #5E40BF;
+    --brand-experiment-20a: #5E40BF;
+    --brand-experiment-25a: #5F4FC4;
+    --brand-experiment-30a: #5F4FC4;
+    --brand-experiment-35a: #6457C7;
+    --brand-experiment-40a: #6457C7;
+    --brand-experiment-45a: #6B5BC8;
+    --brand-experiment-50a: #6B5BC8;
+    --brand-experiment-55a: #6B5BC8;
+    --brand-experiment-60a: #675EC9;
+    --brand-experiment-65a: #675EC9;
+    --brand-experiment-70a: #675EC9;
+    --brand-experiment-75a: #6D62CB;
+    --brand-experiment-80a: #6D62CB;
+    --brand-experiment-85a: #6D62CB;
+    --brand-experiment-90a: #6D62CB;
+    --brand-experiment-95a: #6D62CB;
+}
+.theme-dark {
+    --control-brand-foreground: #675EC9;
+}
+.theme-dark, .theme-light {
+    --text-link: #6D62CB;
+    --text-link-low-saturation: #6457C7;
+    --control-brand-foreground-new: #675EC9;
+    --info-help-foreground: #6457C7;
+}
+.theme-light {
+    --blue-button-bg: #6457C7;
+    --blue-button-hover: #6B5BC8;
+    --blue-button-border: #6B5BC8;
+    --blue-button-top: #6B5BC8;
+    --blue-button-bottom: #6B5BC8;
+    --control-brand-foreground: #6457C7;
+}
